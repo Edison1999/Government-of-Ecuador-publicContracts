@@ -1,5 +1,1 @@
-print("Hello World. created by Edison")
-print("Hello World. created by Victor")
-print("Hola Lozano")
-print("Hola amigos")
-print("Hola Lozano")
+print("Oye")
